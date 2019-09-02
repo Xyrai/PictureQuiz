@@ -4,4 +4,6 @@
     <string name="confirm">Confirm</string>
     <string name="giraffe">Giraffe</string>
     <string name="species">Species</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
 </resources>
